@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 var whoIs = "talking in class"
+    var whoIsThat = "Erik with a K"
     
     
     override func viewDidLoad() {
